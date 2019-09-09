@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Picasso</string>
+    <string name="Color">color</string>
+    <string name="lineWidth">Line width</string>
+    <string name="erase">Erase</string>
+    <string name="lable_alpha">Alpha</string>
+    <string name="lable_red">Red</string>
+    <string name="lable_green">Green</string>
+    <string name="lable_blue">Blue</string>
+</resources>
